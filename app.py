@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import master_function as mf
 
 load_dotenv()
-Bot_Token = os.environ.get('BOT_TOKEN')
+Bot_Token = '7411576616:AAFfSLCQsgEQBf3eRYBLT2KTWxlehDTEWHc'
 
 bot = telebot.TeleBot(Bot_Token)
 
