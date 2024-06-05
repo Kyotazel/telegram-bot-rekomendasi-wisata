@@ -1,0 +1,92 @@
+id,namaWisata,rating,kategori,Kategori User
+1,Kampoeng Batja (Kampung Baca),4.4,Edukasi,"Pengetahuan, Santai"
+2,Waterboom Tiara Park Jember,4.0,Hiburan,"Keluarga, Rekreasi"
+3,Alun-Alun Jember,4.5,Hiburan,"Keluarga, Santai"
+4,Sukorambi Botanical Garden,4.3,"Alam, Hiburan","Keluarga, Rekreasi"
+5,Air Terjun Slawu,4.4,"Alam, Petualangan",Petualang
+6,Teluk Love,4.4,"Alam, Pantai, Petualangan",Petualang
+7,Museum Huruf Jember,4.6,Edukasi,"Pengetahuan, Santai, Fotografi"
+8,Museum Tembakau Jember,4.6,Edukasi,"Pengetahuan, Santai, Fotografi"
+9,Green Hill Swimming Pool,4.0,Hiburan,"Keluarga, Santai, Rekreasi"
+10,Pasar Tanjung Water Tower,4.3,Belanja,"Keluarga, Santai"
+11,Mumbul Garden,4.1,"Alam, Hiburan","Keluarga, Petualang"
+12,Jembatan Semanggi,4.5,Alam,"Santai, Fotografi"
+13,Agrowisata Gunung Pasang Jember,4.4,"Alam, Hiburan","Keluarga, Santai, Rekreasi"
+14,Taman Wisata Railfans JPL 152 Jember,4.9,Alam,Santai
+15,Bukit Samboja,4.7,"Alam, Pantai, Petualangan",Petualang
+16,Situs DuplangKamal,4.4,"Edukasi, Sejarah","Pengetahuan, Santai"
+17,Jember Mini Zoo,4.6,"Alam, Hiburan","Keluarga, Santai, Rekreasi"
+18,Jubang Stone Hill,4.3,"Alam, Petualangan",Petualang
+19,Taman Edukasi Kebangsaan Universitas Jember,4.7,Edukasi,"Pengetahuan, Keluarga"
+20,Dira Park,4.3,Hiburan,"Keluarga, Santai, Rekreasi"
+21,Wisata Citra Mandiri Bumdes Arjasa,4.5,Hiburan,"Keluarga, Santai, Rekreasi"
+22,Papuma Beach,4.6,"Alam, Pantai, Petualangan","Keluarga, Santai, Rekreasi"
+23,Wana SIMBAT,4.0,"Alam, Petualangan",Petualang
+24,Wisata Kebun Mumbul,4.2,"Alam, Hiburan","Keluarga, Rekreasi"
+25,Taman Galaxy,4.5,"Alam, Hiburan","Keluarga, Santai, Rekreasi, Fotografi"
+26,Air Terjun Kebun Rayap,4.3,"Alam, Petualangan",Petualang
+27,Pantai Payangan,4.3,"Alam, Pantai, Petualangan","Keluarga, Santai, Petualang"
+28,Pantai Papuma,4.5,"Alam, Pantai, Petualangan","Keluarga, Santai, Rekreasi"
+29,Pantai Pancer,4.2,"Alam, Pantai, Petualangan","Keluarga, Santai"
+30,Ex Panorama Bukit Bedadung,3.5,"Alam, Hiburan","Keluarga, Santai"
+31,Siti Hinggil Papuma,4.7,"Alam, Pantai, Petualangan","Keluarga, Santai"
+32,Air Terjun Tancak,4.5,"Alam, Petualangan",Petualang
+33,Alun-Alun Playground,4.4,Hiburan,"Keluarga, Santai"
+34,AGRO KITA,4.3,Alam,"Keluarga, Santai"
+35,Pemandian Kebon Agung,4.1,Hiburan,"Keluarga, Rekreasi"
+36,Air Terjun Sumbersalak,4.2,"Alam, Petualangan",Petualang
+37,Park of Jami' Jember Mosque,4.8,Religi,Keluarga
+38,Air Terjun Watu Ondo,4.0,"Alam, Petualangan",Petualang
+39,Agrotechno Park University of Jember,4.8,"Alam, Edukasi","Keluarga, Santai, Fotografi"
+40,Indian camp,3.7,Hiburan,"Petualang, Santai, Fotografi"
+41,Jumerto Rafting,4.4,"Alam, Petualangan","Keluarga, Petualang"
+42,Taman Semanggi,4.6,Alam,"Santai, Fotografi"
+43,Wahana Edukasi Tanaman Obat,4.4,Edukasi,"Pengetahuan, Keluarga, Santai, Fotografi"
+44,Bukit Kambing,4.5,"Alam, Pantai, Petualangan",Petualang
+45,Cagar Alam Watangan,4.0,Alam,"Keluarga, Santai, Rekreasi"
+46,Air Terjun Maelang,4.2,"Alam, Petualangan",Petualang
+47,Pantai Cemara,4.3,"Alam, Pantai","Keluarga, Santai"
+48,Watu Langgar,4.5,"Alam, Petualangan",Santai
+49,Air Terjun Mandigu,4.5,"Alam, Petualangan",Petualang
+50,Meru Betiri National Park,4.6,"Alam, Pantai, Petualangan",Petualang
+51,Seven Angels waterfall,4.3,"Alam, Petualangan",Petualang
+52,Pantai Canga'an,4.4,"Alam, Pantai, Petualangan",Petualang
+53,Air Terjun Antrokan Manggisan,4.2,"Alam, Petualangan",Petualang
+54,Taman Kota Sumbersari,4.3,Hiburan,"Keluarga, Santai"
+55,Wisata Edukasi Pusat Penelitian Kopi Kakao Jember,4.6,Edukasi,"Keluarga, Santai, Fotografi"
+56,Jember Public Park Gajah Mada,4.3,Hiburan,"Keluarga, Santai"
+57,Monumen Palagan Jumerto,4.5,Sejarah,Pengetahuan
+58,Pantai Paseban,4.1,"Alam, Pantai","Keluarga, Santai"
+59,Pantai Getem,4.3,"Alam, Pantai","Keluarga, Santai, Fotografi"
+60,Wisata Sungai Kalijompo,4.6,"Alam, Petualangan","Keluarga, Santai, Petualang"
+61,Rembangan Hotel,4.4,"Alam, Hiburan","Keluarga, Santai"
+62,Pantai Asmara,4.6,"Alam, Pantai","Keluarga, Santai"
+63,Patung Pendiri UNEJ,4.8,"Edukasi, Sejarah","Pengetahuan, Santai"
+64,Pemandian Patemon,4.1,"Alam, Hiburan","Keluarga, Santai, Rekreasi"
+65,Jember Edu Garden (JEG),4.2,"Alam, hiburan",Santai
+66,Masjid Muhammad Cheng Hoo Jember,4.7,"Religi, Sejarah",Keluarga
+67,Desa Wisata Kemiri,4.4,Alam,"Keluarga, Santai"
+68,Tancak Tulis,4.3,"Alam, Petualangan",Petualang
+69,Wisata Jembatan Klungkung,4.3,Alam,"Keluarga, Santai"
+70,Kampung durian Pakis Jember,4.4,"Alam, Hiburan","Keluarga, Santai, Rekreasi"
+71,DEWI PORA (DESA WISATA POCANGAN OUTBOUND AND RIVER ADVENTURE),3.9,"Alam, Hiburan",Santai
+72,Wisata raifans spot lurusan,5.0,Alam,Santai
+73,Air Terjun Turbin Jumerto,3.9,"Alam, Petualangan",Petualang
+74,Wisata Puncak Pakel,4.5,"Alam, Petualangan","Keluarga, Petualang"
+75,Seger Nusantara,4.7,"Alam, Hiburan, Petualangan","Keluarga, Santai"
+76,Selo Bonang Argopuro,4.6,"Alam, Petualangan",Petualang
+77,Balai Taman Nasional Meru Betiri,4.4,Alam,Petualang
+78,Air Terjun Rengganis,4.0,"Alam, Petualangan",Petualang
+79,Panduman Waterfall,4.2,"Alam, Petualangan",Petualang
+80,Mutiara park,4.5,Hiburan,"Keluarga, Rekreasi"
+81,Tanoker Ledokombo,4.3,Hiburan,"Keluarga, Rekreasi"
+82,Zona Rekreasi TPA Pakusari,4.1,"Alam, Hiburan","Keluarga, Santai"
+83,Wisata Sentool,4.2,"Alam, Hiburan, Petualangan","Keluarga, Santai, Rekreasi"
+84,Perkebunan Durjo,4.3,Alam,"Keluarga, Santai, Petualang"
+85,Jember Roxy Square,4.5,Belanja,Keluarga
+86,Matahari Johar Plaza,4.3,Belanja,Keluarga
+87,Nico Busana,4.3,Belanja,Keluarga
+88,Lippo Plaza Jember,4.5,Belanja,Keluarga
+89,Transmart Jember,4.5,Belanja,Keluarga
+90,Golden Market,4.5,Belanja,Keluarga
+91,Masjid Roudhotul Muchlisin,4.8,Religi,Keluarga
