@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import master_function as mf
 
 load_dotenv()
-Bot_Token = '7411576616:AAFfSLCQsgEQBf3eRYBLT2KTWxlehDTEWHc'
+Bot_Token = '7004044542:AAFZ412swxBQpPXkhI0fQdoinbLxoovl6Tk'
 
 bot = telebot.TeleBot(Bot_Token)
 
@@ -56,7 +56,7 @@ def kategori(message):
             response += f"Nama Wisata : {row['namaWisata']}\n"
             response += f"Rating  : {row['rating']}\n"
             response += f"Tautan : "
-            bot.send_photo(chat_id=message.chat.id, photo=open('https://images.tokopedia.net/img/cache/700/VqbcmM/2022/10/29/bd50f436-60c4-4199-b09f-f65b2b6ad428.jpg', 'rb'), caption=response)
+            bot.send_photo(chat_id=message.chat.id, photo=open('images/telebot.jpg', 'rb'), caption=response)
     except:
         bot.reply_to(message, "Kategori tidak sesuai")
 
