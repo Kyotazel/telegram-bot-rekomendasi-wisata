@@ -1,92 +1,83 @@
-id,namaWisata,rating,kategori,Kategori User
-1,Kampoeng Batja (Kampung Baca),4.4,Edukasi,"Pengetahuan, Santai"
-2,Waterboom Tiara Park Jember,4.0,Hiburan,"Keluarga, Rekreasi"
-3,Alun-Alun Jember,4.5,Hiburan,"Keluarga, Santai"
-4,Sukorambi Botanical Garden,4.3,"Alam, Hiburan","Keluarga, Rekreasi"
-5,Air Terjun Slawu,4.4,"Alam, Petualangan",Petualang
-6,Teluk Love,4.4,"Alam, Pantai, Petualangan",Petualang
-7,Museum Huruf Jember,4.6,Edukasi,"Pengetahuan, Santai, Fotografi"
-8,Museum Tembakau Jember,4.6,Edukasi,"Pengetahuan, Santai, Fotografi"
-9,Green Hill Swimming Pool,4.0,Hiburan,"Keluarga, Santai, Rekreasi"
-10,Pasar Tanjung Water Tower,4.3,Belanja,"Keluarga, Santai"
-11,Mumbul Garden,4.1,"Alam, Hiburan","Keluarga, Petualang"
-12,Jembatan Semanggi,4.5,Alam,"Santai, Fotografi"
-13,Agrowisata Gunung Pasang Jember,4.4,"Alam, Hiburan","Keluarga, Santai, Rekreasi"
-14,Taman Wisata Railfans JPL 152 Jember,4.9,Alam,Santai
-15,Bukit Samboja,4.7,"Alam, Pantai, Petualangan",Petualang
-16,Situs DuplangKamal,4.4,"Edukasi, Sejarah","Pengetahuan, Santai"
-17,Jember Mini Zoo,4.6,"Alam, Hiburan","Keluarga, Santai, Rekreasi"
-18,Jubang Stone Hill,4.3,"Alam, Petualangan",Petualang
-19,Taman Edukasi Kebangsaan Universitas Jember,4.7,Edukasi,"Pengetahuan, Keluarga"
-20,Dira Park,4.3,Hiburan,"Keluarga, Santai, Rekreasi"
-21,Wisata Citra Mandiri Bumdes Arjasa,4.5,Hiburan,"Keluarga, Santai, Rekreasi"
-22,Papuma Beach,4.6,"Alam, Pantai, Petualangan","Keluarga, Santai, Rekreasi"
-23,Wana SIMBAT,4.0,"Alam, Petualangan",Petualang
-24,Wisata Kebun Mumbul,4.2,"Alam, Hiburan","Keluarga, Rekreasi"
-25,Taman Galaxy,4.5,"Alam, Hiburan","Keluarga, Santai, Rekreasi, Fotografi"
-26,Air Terjun Kebun Rayap,4.3,"Alam, Petualangan",Petualang
-27,Pantai Payangan,4.3,"Alam, Pantai, Petualangan","Keluarga, Santai, Petualang"
-28,Pantai Papuma,4.5,"Alam, Pantai, Petualangan","Keluarga, Santai, Rekreasi"
-29,Pantai Pancer,4.2,"Alam, Pantai, Petualangan","Keluarga, Santai"
-30,Ex Panorama Bukit Bedadung,3.5,"Alam, Hiburan","Keluarga, Santai"
-31,Siti Hinggil Papuma,4.7,"Alam, Pantai, Petualangan","Keluarga, Santai"
-32,Air Terjun Tancak,4.5,"Alam, Petualangan",Petualang
-33,Alun-Alun Playground,4.4,Hiburan,"Keluarga, Santai"
-34,AGRO KITA,4.3,Alam,"Keluarga, Santai"
-35,Pemandian Kebon Agung,4.1,Hiburan,"Keluarga, Rekreasi"
-36,Air Terjun Sumbersalak,4.2,"Alam, Petualangan",Petualang
-37,Park of Jami' Jember Mosque,4.8,Religi,Keluarga
-38,Air Terjun Watu Ondo,4.0,"Alam, Petualangan",Petualang
-39,Agrotechno Park University of Jember,4.8,"Alam, Edukasi","Keluarga, Santai, Fotografi"
-40,Indian camp,3.7,Hiburan,"Petualang, Santai, Fotografi"
-41,Jumerto Rafting,4.4,"Alam, Petualangan","Keluarga, Petualang"
-42,Taman Semanggi,4.6,Alam,"Santai, Fotografi"
-43,Wahana Edukasi Tanaman Obat,4.4,Edukasi,"Pengetahuan, Keluarga, Santai, Fotografi"
-44,Bukit Kambing,4.5,"Alam, Pantai, Petualangan",Petualang
-45,Cagar Alam Watangan,4.0,Alam,"Keluarga, Santai, Rekreasi"
-46,Air Terjun Maelang,4.2,"Alam, Petualangan",Petualang
-47,Pantai Cemara,4.3,"Alam, Pantai","Keluarga, Santai"
-48,Watu Langgar,4.5,"Alam, Petualangan",Santai
-49,Air Terjun Mandigu,4.5,"Alam, Petualangan",Petualang
-50,Meru Betiri National Park,4.6,"Alam, Pantai, Petualangan",Petualang
-51,Seven Angels waterfall,4.3,"Alam, Petualangan",Petualang
-52,Pantai Canga'an,4.4,"Alam, Pantai, Petualangan",Petualang
-53,Air Terjun Antrokan Manggisan,4.2,"Alam, Petualangan",Petualang
-54,Taman Kota Sumbersari,4.3,Hiburan,"Keluarga, Santai"
-55,Wisata Edukasi Pusat Penelitian Kopi Kakao Jember,4.6,Edukasi,"Keluarga, Santai, Fotografi"
-56,Jember Public Park Gajah Mada,4.3,Hiburan,"Keluarga, Santai"
-57,Monumen Palagan Jumerto,4.5,Sejarah,Pengetahuan
-58,Pantai Paseban,4.1,"Alam, Pantai","Keluarga, Santai"
-59,Pantai Getem,4.3,"Alam, Pantai","Keluarga, Santai, Fotografi"
-60,Wisata Sungai Kalijompo,4.6,"Alam, Petualangan","Keluarga, Santai, Petualang"
-61,Rembangan Hotel,4.4,"Alam, Hiburan","Keluarga, Santai"
-62,Pantai Asmara,4.6,"Alam, Pantai","Keluarga, Santai"
-63,Patung Pendiri UNEJ,4.8,"Edukasi, Sejarah","Pengetahuan, Santai"
-64,Pemandian Patemon,4.1,"Alam, Hiburan","Keluarga, Santai, Rekreasi"
-65,Jember Edu Garden (JEG),4.2,"Alam, hiburan",Santai
-66,Masjid Muhammad Cheng Hoo Jember,4.7,"Religi, Sejarah",Keluarga
-67,Desa Wisata Kemiri,4.4,Alam,"Keluarga, Santai"
-68,Tancak Tulis,4.3,"Alam, Petualangan",Petualang
-69,Wisata Jembatan Klungkung,4.3,Alam,"Keluarga, Santai"
-70,Kampung durian Pakis Jember,4.4,"Alam, Hiburan","Keluarga, Santai, Rekreasi"
-71,DEWI PORA (DESA WISATA POCANGAN OUTBOUND AND RIVER ADVENTURE),3.9,"Alam, Hiburan",Santai
-72,Wisata raifans spot lurusan,5.0,Alam,Santai
-73,Air Terjun Turbin Jumerto,3.9,"Alam, Petualangan",Petualang
-74,Wisata Puncak Pakel,4.5,"Alam, Petualangan","Keluarga, Petualang"
-75,Seger Nusantara,4.7,"Alam, Hiburan, Petualangan","Keluarga, Santai"
-76,Selo Bonang Argopuro,4.6,"Alam, Petualangan",Petualang
-77,Balai Taman Nasional Meru Betiri,4.4,Alam,Petualang
-78,Air Terjun Rengganis,4.0,"Alam, Petualangan",Petualang
-79,Panduman Waterfall,4.2,"Alam, Petualangan",Petualang
-80,Mutiara park,4.5,Hiburan,"Keluarga, Rekreasi"
-81,Tanoker Ledokombo,4.3,Hiburan,"Keluarga, Rekreasi"
-82,Zona Rekreasi TPA Pakusari,4.1,"Alam, Hiburan","Keluarga, Santai"
-83,Wisata Sentool,4.2,"Alam, Hiburan, Petualangan","Keluarga, Santai, Rekreasi"
-84,Perkebunan Durjo,4.3,Alam,"Keluarga, Santai, Petualang"
-85,Jember Roxy Square,4.5,Belanja,Keluarga
-86,Matahari Johar Plaza,4.3,Belanja,Keluarga
-87,Nico Busana,4.3,Belanja,Keluarga
-88,Lippo Plaza Jember,4.5,Belanja,Keluarga
-89,Transmart Jember,4.5,Belanja,Keluarga
-90,Golden Market,4.5,Belanja,Keluarga
-91,Masjid Roudhotul Muchlisin,4.8,Religi,Keluarga
+id,namaWisata,rating,kategori,Kategori User,Tautan,Link Gambar
+1,Kampoeng Batja (Kampung Baca),4.4,Edukasi,"Pengetahuan, Santai",https://maps.app.goo.gl/XfWLJkkzEkj6N12j7,https://drive.google.com/file/d/1oPQab_u-JGoiVXB0l1PUyAVduJqa1bpe/view?usp=drive_link
+2,Waterboom Tiara Park Jember,4.0,Hiburan,"Keluarga, Rekreasi",https://maps.app.goo.gl/iDSqkn74tLKzvFFt6,https://drive.google.com/file/d/1DzB38mqC_-FckgiVBTNxjAjHYRFtIMEA/view?usp=drive_link
+3,Sukorambi Botanical Garden,4.3,"Alam, Hiburan","Keluarga, Rekreasi",https://maps.app.goo.gl/Z4z2KawJABFekpJ6A,https://drive.google.com/file/d/1KyuWPIL9HHRyUnnabBcxEZCXfAB8Zc34/view?usp=drive_link
+4,Air Terjun Slawu,4.4,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/ZFmEPZ4ENnfXLa2D8,https://drive.google.com/file/d/12o626aVFO_9Pv-Srii7m6Z4-1rPFQCK1/view?usp=drive_link
+5,Teluk Love,4.4,"Alam, Pantai, Petualangan",Petualang,https://maps.app.goo.gl/XtPjvgskFLUqeJMe9,https://drive.google.com/file/d/1MGKaetj6QpJ684ZwjNOLND1xtuNlvVYY/view?usp=drive_link
+6,Museum Huruf Jember,4.6,Edukasi,"Pengetahuan, Santai, Fotografi",https://maps.app.goo.gl/zhbUNZSCpphLEYC66,https://drive.google.com/file/d/1y1XsfdhRHHBRwm4udZTRC5PFBK2_eQ4O/view?usp=drive_link
+7,Museum Tembakau Jember,4.6,Edukasi,"Pengetahuan, Santai, Fotografi",https://maps.app.goo.gl/rderxoqzeaMi2hYC7,https://drive.google.com/file/d/1Y3QokXhaF5drftuWHmOUCEE8g0hlYoya/view?usp=drive_link
+8,Green Hill Swimming Pool,4.1,Hiburan,"Keluarga, Santai, Rekreasi",https://maps.app.goo.gl/9vTUDWEcaKrt8dVD9,https://drive.google.com/file/d/1hHh57-vkI4l6J2cghk9crydvYMLItwZa/view?usp=drive_link
+9,Pasar Tanjung Water Tower,4.3,Belanja,"Keluarga, Santai",https://maps.app.goo.gl/LSzJLVqrCDtFDaPdA,https://drive.google.com/file/d/15_A0RaCdduVB31eW6ZxeiwINCP17v_ji/view?usp=drive_link
+10,Agrowisata Gunung Pasang Jember,4.4,"Alam, Hiburan","Keluarga, Santai, Rekreasi",https://maps.app.goo.gl/cZTxsvDkfMEGs5e16,https://drive.google.com/file/d/1_SUs_RHUNWbn1FCViI0C_5AlEhg-NNZ1/view?usp=sharing
+11,Taman Wisata Railfans JPL 152 Jember,4.8,Alam,"Santai, Fotografi",https://maps.app.goo.gl/hMaHGyGdDDuohxD6A,https://drive.google.com/file/d/1lVeUUuKxzz--9BXjy9ctN2tm7KFf8xos/view?usp=drive_link
+12,Bukit Samboja,4.7,"Alam, Pantai, Petualangan",Petualang,https://maps.app.goo.gl/NETQrBx1g8Agc53d8,https://drive.google.com/file/d/1RjBT3SxT1eHoBBzieEmvScfuu0G9OE3K/view?usp=drive_link
+13,Situs DuplangKamal,4.4,"Edukasi, Sejarah","Pengetahuan, Santai",https://maps.app.goo.gl/kuVDie1ZtE5GZm8t5,https://drive.google.com/file/d/1Bu7qZxFo0xVUcWfuu5KDEA9qK2vfNyVo/view?usp=drive_link
+14,Jember Mini Zoo,4.6,"Alam, Hiburan","Keluarga, Santai, Rekreasi",https://maps.app.goo.gl/VnxZXddjoEQUQ8Dn8,https://drive.google.com/file/d/165xZzA6H6pz9shbXT5zKxw6NmFSlCG2W/view?usp=drive_link
+15,Jubang Stone Hill,4.3,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/CCQK8Kuk2qtGGVTs8,https://drive.google.com/file/d/1GZq_88DPUyRj0qrNuw_rLIeBD6yaliTN/view?usp=drive_link
+16,Taman Edukasi Kebangsaan Universitas Jember,4.7,Edukasi,"Pengetahuan, Keluarga",https://maps.app.goo.gl/VFaH6Re2CSJUBLNk8,https://drive.google.com/file/d/1w-DTpl_uRxxvR3j8ZVVCsWihROo0RXHU/view?usp=drive_link
+17,Dira Park,4.3,Hiburan,"Keluarga, Santai, Rekreasi",https://maps.app.goo.gl/JhEV3dkL3bga8gQWA,https://drive.google.com/file/d/1jlD4SXyG_aufwV4Iyt4T1sGvNQqrDIdM/view?usp=drive_link
+18,Wisata Citra Mandiri Bumdes Arjasa,4.5,Hiburan,"Keluarga, Santai, Rekreasi",https://maps.app.goo.gl/RzJUzYD248MtzbRT6,https://drive.google.com/file/d/1PRIRGOylwnZjmJH4jtnbl-2_MWyRjZwm/view?usp=drive_link
+19,Pantai Papuma,4.6,"Alam, Pantai, Petualangan","Keluarga, Santai, Rekreasi",https://maps.app.goo.gl/LesD5xGJvXxeXiZCA,https://drive.google.com/file/d/1Vyt898cppbIK6J8NV2hbULp5wAhKWb3K/view?usp=drive_link
+20,Mumbul Garden,4.3,"Alam, Hiburan","Keluarga, Rekreasi",https://maps.app.goo.gl/7zJmbab8uteE3FwN6,https://drive.google.com/file/d/1LytuiqiWcCOb5mzisZgv3Js09pRZKrKV/view?usp=drive_link
+21,Taman Galaxy,4.5,"Alam, Hiburan","Keluarga, Santai, Rekreasi, Fotografi",https://maps.app.goo.gl/cKPA4Pzb9D1roMRp7,https://drive.google.com/file/d/1VdkH8Wer6FlOM6VIY9SnsvSDC90SixN8/view?usp=drive_link
+22,Air Terjun Kebun Rayap,4.3,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/Q19BGu4ULDtxCbQj8,https://drive.google.com/file/d/169eWz2xL8ti5xLDOwCnRuLisgBUu3dNG/view?usp=drive_link
+23,Pantai Payangan,4.3,"Alam, Pantai, Petualangan","Keluarga, Santai, Petualang",https://maps.app.goo.gl/JSZ5cS4wNiTNDshd6,https://drive.google.com/file/d/1fQmwg1i6IYOlc85gLHBBW7WXJEAV1iLe/view?usp=drive_link
+24,Pantai Pancer,4.2,"Alam, Pantai, Petualangan","Keluarga, Santai",https://maps.app.goo.gl/w8KWqyxpmt3owW2d8,https://drive.google.com/file/d/1u6xGo9JGCdneqsnp42UOA-pwb0kJmx2x/view?usp=drive_link
+25,Siti Hinggil Papuma,4.7,"Alam, Pantai, Petualangan","Keluarga, Santai",https://maps.app.goo.gl/qD8dwxUgr1aDbg6UA,https://drive.google.com/file/d/16ICCvYqOzLTQ-ZkHKJGWC1f-ARL2N-_d/view?usp=drive_link
+26,Air Terjun Tancak,4.5,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/iNTLLbP5Xe3F6wmF9,https://drive.google.com/file/d/15fG295EKve5S5T-roVQ3WZzxg_cqzc5Z/view?usp=drive_link
+27,Alun-Alun Playground,4.4,Hiburan,"Keluarga, Santai",https://maps.app.goo.gl/yLdfGBGmUfE1XjK78,https://drive.google.com/file/d/1soaCGWmT_DOEa_3BfeDxNjucA0f6PwGI/view?usp=drive_link
+28,Agro Kita,4.3,Alam,"Keluarga, Santai",https://maps.app.goo.gl/zHLxopLvGVvd2hfd7,https://drive.google.com/file/d/15Gl0zXpZJnW3xmNUJHwis9oJlzoQcCWg/view?usp=drive_link
+29,Pemandian Kebon Agung,4.1,Hiburan,"Keluarga, Rekreasi",https://maps.app.goo.gl/kHSnzkNnmnddszwa6,https://drive.google.com/file/d/1Vrrtcd_P85hgqYbFMIluQxxIEkIg0ygR/view?usp=drive_link
+30,Air Terjun Sumbersalak,4.2,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/xYwp5Fo7JPa1R7fY6,https://drive.google.com/file/d/1dYVWDpN60Tgo4JoCjVgtnxSsCj8Rb8qg/view?usp=drive_link
+31,Park of Jami' Jember Mosque,4.8,Religi,Keluarga,https://maps.app.goo.gl/vgBRsqdCFtMffviv6,https://drive.google.com/file/d/1I9RY9YhJZDTBTEtwUFYwQo8UuRjBBs9d/view?usp=drive_link
+32,Air Terjun Watu Ondo,4.1,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/hNG8g4Ts5PM2WQTNA,https://drive.google.com/file/d/1BQGwRO7GBa1zxDcTpOasNphOIUzb_Xp4/view?usp=drive_link
+33,Agrotechno Park University of Jember,4.7,"Alam, Edukasi","Keluarga, Santai, Fotografi",https://maps.app.goo.gl/5mVjJwARp6Ed8sdu7,https://drive.google.com/file/d/1TH0724mJGta01k4csV2yCTbHsEQIvpXm/view?usp=drive_link
+34,Indian camp,3.7,Hiburan,"Petualang, Santai, Fotografi",https://maps.app.goo.gl/rcxPMEMZ6av8GWQa9,https://drive.google.com/file/d/1jr-bs4ZJFMS94qBoLaaqvmBUjslt0-SJ/view?usp=drive_link
+35,Jumerto Rafting,4.4,"Alam, Petualangan","Keluarga, Petualang",https://maps.app.goo.gl/puM6cZCPxR2YTRY56,https://drive.google.com/file/d/1Z6wOey046rfk8mlC-sR-f6o8PXfpI34B/view?usp=drive_link
+36,Taman Semanggi,4.7,Alam,"Santai, Fotografi",https://maps.app.goo.gl/yq6xhMDa2UryqZ2e9,https://drive.google.com/file/d/1jyksvis5tarnwypStL5xNXztG7Oa8bPf/view?usp=drive_link
+37,Wahana Edukasi Tanaman Obat,4.4,Edukasi,"Pengetahuan, Keluarga, Santai, Fotografi",https://maps.app.goo.gl/FG1F1nrKMFjRToTm8,https://drive.google.com/file/d/1cghjuc4SPHU2B6ggj6gzAP7VRxmS4Wd7/view?usp=drive_link
+38,Bukit Kambing,4.5,"Alam, Pantai, Petualangan",Petualang,https://maps.app.goo.gl/8Ms8z3c9U9H4NVPF6,https://drive.google.com/file/d/1JyQ089wMi_Y0CsjTlVTAgKhitShvELpR/view?usp=drive_link
+39,Cagar Alam Watangan,4.0,Alam,"Keluarga, Santai, Rekreasi",https://maps.app.goo.gl/B7fohVPRqo9TrxpR9,https://drive.google.com/file/d/1YA9jkr_ayKHruGlMjXJTFp7eCsy7Wndp/view?usp=drive_link
+40,Air Terjun Maelang,4.2,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/x7SmqLPw6aDKXHrx8,https://drive.google.com/file/d/1ctdmrU4oql3V0aY0eDJkRIy-ZSXGClgw/view?usp=drive_link
+41,Pantai Cemara,4.3,"Alam, Pantai","Keluarga, Santai",https://maps.app.goo.gl/SwrYeTxSL7jWL3rV6,https://drive.google.com/file/d/1SbzPhf5AYlHGhYgD3CEN9UmpWqsRlk1d/view?usp=drive_link
+42,Watu Langgar,4.5,"Alam, Petualangan",Santai,https://maps.app.goo.gl/vfui8JSD8RyYAcFu7,https://drive.google.com/file/d/1tbXON_hfI8TXqY3DLFYS0cTKV5JewtqR/view?usp=drive_link
+43,Air Terjun Mandigu,4.5,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/8V4G8Zt3NaDARjkK9,https://drive.google.com/file/d/1w5gRzRmeOOG7OVPJMyWZwxV4x2HNha2m/view?usp=drive_link
+44,Meru Betiri National Park,4.6,"Alam, Pantai, Petualangan",Petualang,https://maps.app.goo.gl/8zBi7vAhD8zCwuii8,https://drive.google.com/file/d/1qI4WYDvO5zUCvdTRzYycpn08x1zYXWxF/view?usp=drive_link
+45,Seven Angels waterfall,4.3,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/JpgMAsaFkRs5Ff7L9,https://drive.google.com/file/d/1jNTpRut5k1CyvHd1E0lJV2vwn5t1hSNe/view?usp=drive_link
+46,Pantai Canga'an,4.4,"Alam, Pantai, Petualangan",Petualang,https://maps.app.goo.gl/GgY3RfSh2EPrXGz4A,https://drive.google.com/file/d/13a2ac7EjUIzto_iLX7Cjvfc4GVDfkS95/view?usp=drive_link
+47,Air Terjun Antrokan Manggisan,4.3,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/5DCMdXjVppPmMd4r7,https://drive.google.com/file/d/13Zre0uOXl9vDtoKEptBf5xsVb04XdUTV/view?usp=drive_link
+48,Taman Kota Sumbersari,4.3,Hiburan,"Keluarga, Santai",https://maps.app.goo.gl/ApN86GZreQwvyzbC9,https://drive.google.com/file/d/1dS0a9ayyDRJEYFzpxSskqjRVaBOXGpDn/view?usp=drive_link
+49,Wisata Edukasi Pusat Penelitian Kopi Kakao Jember,4.6,Edukasi,"Keluarga, Santai, Fotografi",https://maps.app.goo.gl/zyodG7gnptLJbroS6,https://drive.google.com/file/d/1a5OGHakG-FHFouj5HkvsSDfcutjFZF0C/view?usp=drive_link
+50,Monumen Palagan Jumerto,4.5,Sejarah,Pengetahuan,https://maps.app.goo.gl/o19S3wFFVSomdAtF9,https://drive.google.com/file/d/1D8bdZemoW3JFeg9fxiPsVaKUNTK4Wn3e/view?usp=drive_link
+51,Pantai Paseban,4.3,"Alam, Pantai","Keluarga, Santai",https://maps.app.goo.gl/pu7MUQyuvCKbTPAV8,https://drive.google.com/file/d/1qEYbkeRPo2NFD4C4IE_HvvDIoOq3qkrY/view?usp=drive_link
+52,Pantai Getem,4.3,"Alam, Pantai","Keluarga, Santai, Fotografi",https://maps.app.goo.gl/iam8qBKgJBVgybKo6,https://drive.google.com/file/d/19jFiDWM5j7RsuyBq729HrP4xTW5PRvQg/view?usp=drive_link
+53,Wisata Sungai Kalijompo,4.6,"Alam, Petualangan","Keluarga, Santai, Petualang",https://maps.app.goo.gl/au4LJziGPpFJZf1f7,https://drive.google.com/file/d/1boM7jLmT2V_CGpTGJi7n0K1_2_GD5m_2/view?usp=drive_link
+54,Rembangan Hotel,4.4,"Alam, Hiburan","Keluarga, Santai",https://maps.app.goo.gl/ZpdgDGHqSinzHVtw9,https://drive.google.com/file/d/1JrBbvOGYa4SQRIIRaqAf8Hz_7nK3Or2p/view?usp=drive_link
+55,Pantai Asmara,4.5,"Alam, Pantai","Keluarga, Santai",https://maps.app.goo.gl/p22gg8LHb5ZwUc8L7,https://drive.google.com/file/d/1nkPAD-HcWA-oN6MpoflgTEfF1Q_dRB5k/view?usp=drive_link
+56,Patung Pendiri UNEJ,4.8,"Edukasi, Sejarah","Pengetahuan, Santai",https://maps.app.goo.gl/Udsfr3Scb3gnan2F9,https://drive.google.com/file/d/1TEIg_nX5N_qYYG2BmpBRl62ww3z9p-03/view?usp=drive_link
+57,Pemandian Patemon,4.1,"Alam, Hiburan","Keluarga, Santai, Rekreasi",https://maps.app.goo.gl/ddHk2m9Uch1DNnQN9,https://drive.google.com/file/d/1rgwhqNhUqdFdHMYw_35RozwedNpsnCg4/view?usp=drive_link
+58,Jember Edu Garden (JEG),4.2,"Alam, hiburan",Santai,https://maps.app.goo.gl/xZAz9tpkDrfNKUPh6,https://drive.google.com/file/d/1R15b86ribrOhi88DtKMfpH9BELhAx9Kw/view?usp=drive_link
+59,Masjid Muhammad Cheng Hoo Jember,4.7,"Religi, Sejarah",Keluarga,https://maps.app.goo.gl/Ygcs5GG9S4xhRaR27,https://drive.google.com/file/d/1rmnxgnQHE59J7Glc8h7wF7yUjRmacwA0/view?usp=drive_link
+60,Desa Wisata Kemiri,4.4,Alam,"Keluarga, Santai",https://maps.app.goo.gl/zGdx3TcYYq23sfpr7,https://drive.google.com/file/d/1sjmGe0ZHOCqxjWEwXtvv9GGr_-dOXONA/view?usp=drive_link
+61,Tancak Tulis,4.3,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/CpwxfAEkozmVDW3a8,https://drive.google.com/file/d/1m3wm3T9G_2I02f8fpCisUZPX4CBzJCTH/view?usp=drive_link
+62,Wisata Jembatan Klungkung,4.2,Alam,"Keluarga, Santai",https://maps.app.goo.gl/ycFLcpEYj1iZLjERA,https://drive.google.com/file/d/1BPN8Iz1iWhn-fG8YrmEcpe82tAzZKcGY/view?usp=drive_link
+63,Kampung Durian Pakis Jember,4.4,"Alam, Hiburan","Keluarga, Santai, Rekreasi",https://maps.app.goo.gl/K4hnH5X9xctH3e9h9,https://drive.google.com/file/d/1OxqowrnsP6PzHVYcxKvrjoVc4Z-hyPZ-/view?usp=drive_link
+64,Wisata Railfans Spot Lurusan,4.7,Alam,"Santai, Fotografi",https://maps.app.goo.gl/oPpAwuU2GHPbRrjB9,https://drive.google.com/file/d/1935J9Gy1YX_z07Dni1gdi2B3bywC6V_f/view?usp=drive_link
+65,Air Terjun Turbin Jumerto,3.9,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/6wxAXonzgKqUKAGi9,https://drive.google.com/file/d/1mZ97fYXzn6RnDOULUfIsXGza2yC2uMqL/view?usp=drive_link
+66,Wisata Puncak Pakel,4.4,"Alam, Petualangan","Keluarga, Petualang",https://maps.app.goo.gl/4EKju344aVU2pBZ58,https://drive.google.com/file/d/1xzMEpr5hoRDmekU5LlJTm8_qBcYOarL1/view?usp=drive_link
+67,Seger Nusantara,4.7,"Alam, Hiburan, Petualangan","Keluarga, Santai",https://maps.app.goo.gl/DV4JEf7t89yJLQTF9,https://drive.google.com/file/d/13IlNpCmUu3z2ROVbcUquX_hAeRUH6nNv/view?usp=drive_link
+68,Selo Bonang Argopuro,4.6,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/bAE4ccjhJSXakTGh9,https://drive.google.com/file/d/1jhWRu-RZuZarFkjqg8bK8CtKk25IStS3/view?usp=drive_link
+69,Air Terjun Rengganis,4.0,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/NQbvRH5UwFWtyah76,https://drive.google.com/file/d/1tJhNBUjWnj3Esp11mh6qIVkuEjupHbA3/view?usp=drive_link
+70,Panduman Waterfall,4.2,"Alam, Petualangan",Petualang,https://maps.app.goo.gl/FSCuTmuqkGf3PPkY7,https://drive.google.com/file/d/1CsncKhWnQzLR0hESQ4EPakEpbPahuy_K/view?usp=drive_link
+71,Mutiara park,4.5,Hiburan,"Keluarga, Rekreasi",https://maps.app.goo.gl/JZ69V1BtecXsztE89,https://drive.google.com/file/d/1ew6vW0-ErBRUXH7mDF6CHuTaAzci4UUV/view?usp=drive_link
+72,Tanoker Ledokombo,4.3,Hiburan,"Keluarga, Rekreasi",https://maps.app.goo.gl/o85NUvh3rrcfpnyG7,https://drive.google.com/file/d/1zgUYsc3MIcZOXCge8DwKdZmab2YFo5ka/view?usp=drive_link
+73,Zona Rekreasi TPA Pakusari,4.1,"Alam, Hiburan","Keluarga, Santai",https://maps.app.goo.gl/pDxgBTQp7bnMuP7x7,https://drive.google.com/file/d/1HcWySlagPmT7P9OE-Jo4dVoABBRfZiZo/view?usp=drive_link
+74,Agrowisata Sentool,4.2,"Alam, Hiburan, Petualangan","Keluarga, Santai, Rekreasi",https://maps.app.goo.gl/6chvKmAHLvC6ryVKA,https://drive.google.com/file/d/1s41pU1EI5fLRCY4rkm3tY5bs-AaO_qN4/view?usp=drive_link
+75,Perkebunan Durjo,4.3,Alam,"Keluarga, Santai, Petualang",https://maps.app.goo.gl/UdGDJZ3N54MUtbXNA,https://drive.google.com/file/d/1d2XvzPEawWOjomvxD1Y56E_h95C9DmK0/view?usp=drive_link
+76,Jember Roxy Square,4.5,Belanja,Keluarga,https://maps.app.goo.gl/GhNK1zKqdhUE4Y5A6,https://drive.google.com/file/d/1oC3iOzdFK0cViOVFoNeeBrvTOebY2oII/view?usp=drive_link
+77,Matahari Johar Plaza,4.3,Belanja,Keluarga,https://maps.app.goo.gl/LxgPPnDJVZ8AVvh5A,https://drive.google.com/file/d/17TY2ZiWN6MGLvTwolN4f7GLgbnMnuLFG/view?usp=drive_link
+78,Nico Busana,4.3,Belanja,Keluarga,https://maps.app.goo.gl/1a8G6Qw13fWcnjMR8,https://drive.google.com/file/d/1SuPqoZsGTP8c8qm1eWYL3B_pX2Vo2ldf/view?usp=drive_link
+79,Lippo Plaza Jember,4.5,Belanja,Keluarga,https://maps.app.goo.gl/CiDoqwthy779SsWs6,https://drive.google.com/file/d/12-X5qB7fI__64aicrQNsM4H3b69h-gqj/view?usp=drive_link
+80,Transmart Jember,4.5,Belanja,Keluarga,https://maps.app.goo.gl/9UpibuBLFML2iVPV6,https://drive.google.com/file/d/1qU_4fytavA0ySDHCdnFYdmDa6FkO26av/view?usp=drive_link
+81,Golden Market,4.5,Belanja,Keluarga,https://maps.app.goo.gl/gvrLproiq1yU5S888,https://drive.google.com/file/d/1XmwLkiozuquPhB7OX_gGLDwYoS8qkeu2/view?usp=drive_link
+82,Masjid Roudhotul Muchlisin,4.8,Religi,Keluarga,https://maps.app.goo.gl/3aqiCitPnK2C9wa76,https://drive.google.com/file/d/1PQMSqojv6R4t5zJMEOUiRc2EMeTD38Qp/view?usp=drive_link

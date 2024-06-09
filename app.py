@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import master_function as mf
 
 load_dotenv()
-Bot_Token = '7004044542:AAFZ412swxBQpPXkhI0fQdoinbLxoovl6Tk'
+Bot_Token = '6914474366:AAG3PXWHmdBf1oZqUiMsmD6o5t5uFGEPTvs'
 
 bot = telebot.TeleBot(Bot_Token)
 
@@ -50,13 +50,17 @@ def kategori(message):
             bot.reply_to(message, "Kategori tidak sesuai")
             return
         
+        if dataframe_tourists.empty:
+            bot.reply_to(message, "Tidak ada destinasi yang tersedia")
+            return
+        
         # bot.reply_to(message, "Berikut destinasi yang tersedia")
         for idx, row in dataframe_tourists.iterrows():
             response = ""
             response += f"Nama Wisata : {row['namaWisata']}\n"
             response += f"Rating  : {row['rating']}\n"
-            response += f"Tautan : "
-            bot.send_photo(chat_id=message.chat.id, photo=open('images/telebot.jpg', 'rb'), caption=response)
+            response += f"Tautan : {row['Tautan']}"
+            bot.send_photo(chat_id=message.chat.id, photo=open(f"images/{row['namaWisata']}.jpg", 'rb'), caption=response)
     except:
         bot.reply_to(message, "Kategori tidak sesuai")
 
